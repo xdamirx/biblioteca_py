@@ -1,0 +1,122 @@
+[
+    {
+        "Titulo": "Cien años de soledad",
+        "Autor": "Gabriel García Márquez",
+        "Año": 1967,
+        "ISBN": "978-3-1-148410-0"
+    },
+    {
+        "Titulo": "Don Quijote de la Mancha",
+        "Autor": "Miguel de Cervantes",
+        "Año": 1605,
+        "ISBN": "978-1-23-456789-7"
+    },
+    {
+        "Titulo": "La casa de los Espíritus",
+        "Autor": "Isabel Allende",
+        "Año": 1982,
+        "ISBN": "978-0-12-345678-9"
+    },
+    {
+        "Titulo": "El amor en los tiempos de cólera",
+        "Autor": "Gabriel García Márquez",
+        "Año": 1985,
+        "ISBN": "978-3-1-148410-1"
+    },
+    {
+        "Titulo": "Sistemas Operativos Modernos",
+        "Autor": "Andrew S. Tanenbaum",
+        "Año": 2009,
+        "ISBN": "978-607-442-046-3"
+    },
+    {
+        "Titulo": "Fotosintesis",
+        "Autor": "Isaac Asimov",
+        "Año": 1986,
+        "ISBN": "978-8-4763-4156-8"
+    },
+    {
+        "Titulo": "Taming the Tiger Within",
+        "Autor": "Tich Nhat Hanh",
+        "Año": 2004,
+        "ISBN": "978-1-1012-1731-3"
+    },
+    {
+        "Titulo": "Breathe, A life in flow",
+        "Autor": "Rickson Gracie",
+        "Año": 2021,
+        "ISBN": "978-0-0630-1897-6"
+    },
+    {
+        "Titulo": "Fire and Blood",
+        "Autor": "George R.R. Martin",
+        "Año": 2018,
+        "ISBN": "978-1-5247-9628-0"
+    },
+    {
+        "Titulo": "Ghost in the wires",
+        "Autor": "Kevin Mitnick",
+        "Año": 2012,
+        "ISBN": "978-0-3160-3772-3"
+    },
+    {
+        "Titulo": "Crazy wisdom",
+        "Autor": "Chogyan Trungpa",
+        "Año": 2001,
+        "ISBN": "978-1-5706-2894-8"
+    },
+    {
+        "Titulo": "The Third Eye",
+        "Autor": "Lonsang Rampa",
+        "Año": 1957,
+        "ISBN": "978-0-4364-0200-5"
+    },
+    {
+        "Titulo": "Harry Potter y el prisionero de Azkaban",
+        "Autor": "J.K Rowling",
+        "Año": 1999,
+        "ISBN": "978-9-8780-0012-1"
+    },
+    {
+        "Titulo": "Moby Dick",
+        "Autor": "Herman Melville",
+        "Año": 1851,
+        "ISBN": "978-8-1759-9277-1"
+    },
+    {
+        "Titulo": "Dracula",
+        "Autor": "Bram Stoker",
+        "Año": 1897,
+        "ISBN": "978-1-8532-6086-5"
+    },
+    {
+        "Titulo": "La metamorfosis",
+        "Autor": "Franz Kaftka",
+        "Año": 1915,
+        "ISBN": "978-8-4199-7846-2"
+    },
+    {
+        "Titulo": "Los miserables",
+        "Autor": "Victor Hugo",
+        "Año": 1862,
+        "ISBN": "978-0-1413-9262-2"
+    },
+    {
+        "Titulo": "The way of the peaceful warrior",
+        "Autor": "Daniel Milman",
+        "Año": 2006,
+        "ISBN": "978-1-9320-7320-1"
+    },
+    {
+        "Titulo": "El principito",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Año": 1943,
+        "ISBN": "978-9-8775-1430-8"
+    },
+    {
+        "Titulo": "Daniel Amir",
+        "Autor": "Daniel Amir",
+        "Año": 2025,
+        "ISBN": "111-1-1111-1111-1"
+    }
+]
